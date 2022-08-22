@@ -143,3 +143,14 @@ relatve | 뷰포트 | x
 
 ***
 ___
+
+
+
+# Git 
+1. git init
+1. git status
+1. git add .
+1. git status
+1. git commit -m 'text'
+1. git remote add origin (github  주소)
+1. git push origin master
