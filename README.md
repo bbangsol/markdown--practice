@@ -119,7 +119,7 @@ position 속성
 값 | 의미 | 기본값
 --|--|--  
 statoc | 기준 없음 | o
-relatve | 요소 자신 | 
+relatve | 요소 자신 | o
 statoc | 위치상 부모ㄴ 요소 | x
 relatve | 뷰포트 | x 
 
